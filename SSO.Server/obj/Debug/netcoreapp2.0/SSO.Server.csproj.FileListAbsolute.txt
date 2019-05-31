@@ -17,12 +17,9 @@ C:\Users\MDZZ\source\SSO\SSO.Server\bin\Debug\netcoreapp2.0\SSO.Server.runtimeco
 C:\Users\MDZZ\source\SSO\SSO.Server\bin\Debug\netcoreapp2.0\SSO.Server.runtimeconfig.dev.json
 C:\Users\MDZZ\source\SSO\SSO.Server\bin\Debug\netcoreapp2.0\SSO.Server.dll
 C:\Users\MDZZ\source\SSO\SSO.Server\bin\Debug\netcoreapp2.0\SSO.Server.pdb
-C:\Users\MDZZ\source\SSO\SSO.Server\bin\Debug\netcoreapp2.0\SSO.Service.dll
-C:\Users\MDZZ\source\SSO\SSO.Server\bin\Debug\netcoreapp2.0\SSO.Service.pdb
 C:\Users\MDZZ\source\SSO\SSO.Server\obj\Debug\netcoreapp2.0\SSO.Server.csprojResolveAssemblyReference.cache
 C:\Users\MDZZ\source\SSO\SSO.Server\obj\Debug\netcoreapp2.0\SSO.Server.csproj.CoreCompileInputs.cache
 C:\Users\MDZZ\source\SSO\SSO.Server\obj\Debug\netcoreapp2.0\SSO.Server.AssemblyInfoInputs.cache
 C:\Users\MDZZ\source\SSO\SSO.Server\obj\Debug\netcoreapp2.0\SSO.Server.AssemblyInfo.cs
-C:\Users\MDZZ\source\SSO\SSO.Server\obj\Debug\netcoreapp2.0\SSO.Server.csproj.CopyComplete
 C:\Users\MDZZ\source\SSO\SSO.Server\obj\Debug\netcoreapp2.0\SSO.Server.dll
 C:\Users\MDZZ\source\SSO\SSO.Server\obj\Debug\netcoreapp2.0\SSO.Server.pdb
